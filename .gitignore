@@ -1,5 +1,5 @@
-.vs
+.vs/
 appsettings.json
-bin
-obj
-Properties
+bin/
+obj/
+Properties/
